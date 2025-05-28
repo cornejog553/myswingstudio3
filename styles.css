@@ -885,7 +885,7 @@ html {
 /* Large Desktop Parallax Effect - 100px */
 @media only screen and (min-width: 100rem) {
   #hero-1950 .cs-background {
-    background: url("https://csimg.nyc3.cdn.digitaloceanspaces.com/Images/MISC/restaurant-space.jpeg");
+    background: url("imgs/heroImg.jpg");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
